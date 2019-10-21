@@ -1,3 +1,3 @@
 <?php
-include_once("manage.html");
+include_once("new_user.html");
 ?>
