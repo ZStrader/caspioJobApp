@@ -11,7 +11,7 @@ table, form {
 }
 
 .lo_top-strip {
-	background: #FF8C00;
+	background: #FFAC00;
 	height:37px;
 	width: 100%;
 }
@@ -22,7 +22,7 @@ table, form {
 }
 
 .lo_bottom-strip {
-	background: #FF8C00;
+	background: #FF8C30;
 	border-bottom:4px solid #FF8E00;
 
 }
