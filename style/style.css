@@ -91,16 +91,16 @@ table, form {
 	text-align: center;
 }
 #navbar a.selected {
-	background: #FF8C00;
+	background: #FFAC00;
 }
 
 #navbar a.selected:hover {
-	background: #FF8C00;	
+	background: #FFAC00;	
 }
 
 #navbar a:hover {
 	color: #fff;
-	background: #FF8C00;
+	background: #FFAC00;
 }
 
 textarea{
