@@ -57,7 +57,7 @@ table, form {
 
 #navbar {
 	height: 30px;
-	background: #FF8C00;
+	background: #FFAC00;
 	width:900px;
 	margin:0 auto;
 }
@@ -91,16 +91,16 @@ table, form {
 	text-align: center;
 }
 #navbar a.selected {
-	background: #FFAC00;
+	background: #FF8C00;
 }
 
 #navbar a.selected:hover {
-	background: #FFAC00;	
+	background: #FF8C00;	
 }
 
 #navbar a:hover {
 	color: #fff;
-	background: #FFAC00;
+	background: #FF8C00;
 }
 
 textarea{
