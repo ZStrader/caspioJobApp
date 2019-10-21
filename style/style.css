@@ -22,7 +22,7 @@ table, form {
 }
 
 .lo_bottom-strip {
-	background: #FF8C30;
+	background: #FFAC00;
 	border-bottom:4px solid #FF8E00;
 
 }
@@ -57,7 +57,7 @@ table, form {
 
 #navbar {
 	height: 30px;
-	background: #FFAC00;
+	background: #FF8C00;
 	width:900px;
 	margin:0 auto;
 }
